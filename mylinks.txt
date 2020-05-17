@@ -1,0 +1,5 @@
+Step 1:
+Create a table from w3 schools using try it yourself
+Step 2:
+Create a link your table using the link :
+            <li><a href="{{ url_for('m') }}">Table</a></li>
