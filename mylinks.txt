@@ -6,3 +6,5 @@ Create a link your table using the link :
 Step 3:
 heroku create vikram2 // this creates a heroku app
 Step 4:
+Tell the server which app heroku should use:
+heroku git:remote --app vikram2
