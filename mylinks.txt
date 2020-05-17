@@ -3,3 +3,6 @@ Create a table from w3 schools using try it yourself
 Step 2:
 Create a link your table using the link :
             <li><a href="{{ url_for('m') }}">Table</a></li>
+Step 3:
+heroku create vikram2 // this creates a heroku app
+Step 4:
